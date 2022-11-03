@@ -7,13 +7,13 @@ import { getDatabase, ref, set, child, get } from "https://www.gstatic.com/fireb
 // Your web app's Firebase configuration
 const firebaseConfig = {
 
-  apiKey : "AIzaSyBR2QKabue7v8cwXPDo7H3UTICoow6NlSg" , 
-  authDomain : "kc326-7226d.firebaseapp.com" , 
-  databaseURL : "https://kc326-7226d-default-rtdb.asia-southeast1.firebasedatabase.app" , 
-  projectId : "kc326-7226d" , 
-  storageBucket : "kc326-7226d.appspot.com" , 
-  messagingSenderId : "457987933713" , 
-  appId : "1:457987933713:web:3baf416cefc34e6712d3b0" 
+  apiKey : "AIzaSyA7gSb_kINJ8Jb1_In0OZCUnNzGcTdiIoo" , 
+  authDomain : "kc326-e4f67.firebaseapp.com" , 
+  databaseURL : "https://kc326-e4f67-default-rtdb.asia-southeast1.firebaseddatabase.app" , 
+  projectId : "kc326-e4f67" , 
+  storageBucket : "kc326-e4f67.appspot.com" , 
+  messagingSenderId : "829740238707" , 
+  appId : "1:829740238707:web:8845da7cfed6fa9d9fe706"  
   
 };
 
