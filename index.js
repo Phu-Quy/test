@@ -13,7 +13,7 @@ const firebaseConfig = {
   projectId : "kc326-e4f67" , 
   storageBucket : "kc326-e4f67.appspot.com" , 
   messagingSenderId : "829740238707" , 
-  appId : "1:829740238707:web:8845da7cfed6fa9d9fe706" 
+  appId : "1:829740238707:web:9bba84bf1f4d73289fe706"  
   
 };
 
